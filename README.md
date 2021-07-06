@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VIHA8287
+- 👋 Hi, I’m @VISHALMEENA
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Data analytic
